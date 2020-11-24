@@ -1,0 +1,31 @@
+{
+  "name": "rostermate",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "flatpickr": "^4.6.3",
+    "fs": "0.0.1-security",
+    "google-auth-library": "^6.0.2",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "js-loading-overlay": "^1.0.4",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.10",
+    "sanitize-html": "^1.18.2",
+    "serve-favicon": "^2.5.0",
+    "sqlite3": "^4.0.0",
+    "uuid": "^3.2.1",
+    "validator": "^13.1.1"
+  }
+}
